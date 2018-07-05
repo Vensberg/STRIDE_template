@@ -10,7 +10,7 @@ I plan to use [] as my test set.
 
 Any file added to this repository will be added as one of the following components:
 
-    *Data management plan (explains how data are to be organized, stored and shared)
-    *Raw data (directly downloaded data with no cleaning)
-    *Analysis (any work done on the data)
-    *Analyzed data (any transformed raw data)
+    * Data management plan (explains how data are to be organized, stored and shared)
+    * Raw data (directly downloaded data with no cleaning)
+    * Analysis (any work done on the data)
+    * Analyzed data (any transformed raw data)
