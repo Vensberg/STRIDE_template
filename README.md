@@ -1,4 +1,4 @@
-## STRIDE_template
+## STRIDE_project_template
 Setting up a template repository to manage STRIDE projects
 
 The purpose of this project is [].
